@@ -1,5 +1,7 @@
-package com.example.bankaccount
+package com.example.bankaccount.controller
 
+import com.example.bankaccount.repository.AccountRepository
+import com.example.bankaccount.domain.Account
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.*
 import java.lang.RuntimeException

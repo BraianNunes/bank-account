@@ -1,4 +1,4 @@
-package com.example.bankaccount
+package com.example.bankaccount.domain
 
 data class Account(
         val id: String? = null,

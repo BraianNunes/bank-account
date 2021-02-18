@@ -1,5 +1,6 @@
-package com.example.bankaccount
+package com.example.bankaccount.repository
 
+import com.example.bankaccount.domain.Account
 import org.springframework.data.mongodb.repository.MongoRepository
 import java.util.*
 
